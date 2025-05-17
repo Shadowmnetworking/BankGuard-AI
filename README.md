@@ -1,7 +1,7 @@
 
 # BankGuard AI
 
-**Developer:** Felix (a.k.a. shadownet / Huby)  
+**Developer:** Felix (shadownet)  
 **Field:** Cybersecurity | AI | Fraud Detection  
 **Location:** Thika, Kenya
 
@@ -33,7 +33,7 @@ BankGuard AI is a lightweight, AI-powered fraud detection prototype aimed at ide
     ```
 
 ## About the Developer
-Felix (Huby), also known as shadownet, is a cybersecurity student at Mount Kenya University. He’s passionate about ethical hacking, AI systems, and building tools that banks can use to protect their users.
+Felix, also known as shadownet, is a cybersecurity student at Mount Kenya University. He’s passionate about ethical hacking, AI systems, and building tools that banks can use to protect their users.
 
 ---
 
