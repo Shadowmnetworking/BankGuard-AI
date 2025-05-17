@@ -6,13 +6,20 @@
 **Location:** Thika, Kenya
 
 ## Description
-BankGuard AI is a lightweight, AI-powered fraud detection prototype aimed at identifying suspicious credit card and mobile wallet transactions. Built with Python, Flask, and machine learning, this project is ideal for banks seeking smarter anti-fraud mechanisms.
+BankGuard AI is a fraud detection system that uses machine learning to identify suspicious financial transactions. Built using Flask, Pandas, and Isolation Forest, it's ideal for banks and fintech teams exploring AI-based fraud prevention.
+
 
 ## Features
-- Behavioral anomaly detection using Isolation Forest
-- Fast API for real-time transaction analysis
-- Scalable design for integration with banking systems
-- Sample dataset included
+- Detects anomalous transactions using Isolation Forest
+- Real-time transaction analysis via Flask API
+- Interactive web dashboard for monitoring flagged transactions
+- Logging and basic error handling
+- Modular and scalable
+  ---
+
+## Project Structure
+
+app.py                   # Main Flask app with all routes dashboard.html           # Admin dashboard UI sample_transactions.csv  # Simulated transaction data requirements.txt         # Project dependencies test_app.py              # Unit tests
 
 ## Tech Stack
 - Python
